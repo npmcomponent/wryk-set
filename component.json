@@ -1,0 +1,21 @@
+{
+  "name": "set",
+  "repo": "wryk/set",
+  "description": "set data structure",
+  "version": "0.1.0",
+  "keywords": [
+    "set",
+    "data",
+    "structure"
+  ],
+  "dependencies": {
+    "wryk/properties": "*",
+    "matthewp/is": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
