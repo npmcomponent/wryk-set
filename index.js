@@ -1,5 +1,5 @@
-var is = require('is');
-var properties = require('properties');
+var is = require('matthewp-is');
+var properties = require('wryk-properties');
 
 module.exports = Set;
 

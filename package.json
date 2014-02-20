@@ -1,10 +1,16 @@
 {
-  "name": "set",
+  "name": "wryk-set",
+  "description": "set data structure",
   "version": "0.1.0",
-  "devDependencies": {
-    "component": "~0.17.0",
-    "LiveScript": "~1.2.0",
-    "mocha": "~1.12.0",
-    "should": "~1.2.2"
-  }
+  "keywords": [
+    "set",
+    "data",
+    "structure"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "wryk-properties": "git://github.com/npmcomponent/wryk-properties.git",
+    "matthewp-is": "git://github.com/npmcomponent/matthewp-is.git"
+  },
+  "license": "MIT"
 }
